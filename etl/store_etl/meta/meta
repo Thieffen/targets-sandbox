@@ -1,0 +1,12 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+data_file|stem|47f99452479e0748|596e00cfe658851e|ef46db3751d8e999|1397204146|data/male-first-names-2013.csv|t19575.3346063771s|0fe5ab1ee641a872|258339|file|local|vector|||0.005||
+data_in_memory|stem|e9aa85e2aa8e11dc|53000f2256869e45|220dda35227f16e0|-1130079081||t19575.3942969538s|f1acd763ece6cf1e|92151|rds|local|vector|||0.091||
+load_data|function|5434b546bf3c8c5d|||||||||||||||
+load_data_names|function|0f5215ddd1598c39|||||||||||||||
+load_raw_data|function|0f5215ddd1598c39|||||||||||||||
+plot_names|function|6c6d1d8a8055e32c|||||||||||||||
+raw_data|stem|09c2247fe8fd5296|b9b33167f1e6ff06|1b88e3275bddcc5c|-979620141||t19575.6240858071s|4de0f8dc71c41c61|92122|rds|local|vector|||0.103||
+raw_data_file|stem|c43a999d28295198|596e00cfe658851e|ef46db3751d8e999|2110307107|data/male-first-names-2013.csv|t19575.6229269936s|3b424b6359baa020|251960|file|local|vector|||0.031||
+read_data|function|5434b546bf3c8c5d|||||||||||||||
+tidy_data|stem|60f62862b2a13954|16f489908707b260|8c78033d924eadee|-1094153249||t19575.6240859315s|5cf3b35da3e1d7c5|38065|rds|local|vector|||0.004||
+tidyfy_raw_data|function|31cbe5f22eba0d78|||||||||||||||

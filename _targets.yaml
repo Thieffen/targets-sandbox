@@ -1,0 +1,6 @@
+project_etl:
+  script: etl/script_etl.R
+  store: etl/store_etl
+project_rapport_A:
+  script: projects/project_1/rapport_A/script.R
+  store: projects/project_1/rapport_A/store

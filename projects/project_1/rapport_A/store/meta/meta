@@ -1,0 +1,8 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|f438e9a13f9c272c|||||||||||||||
+data|stem|60f62862b2a13954|6fcde7c9e02c5e6c|e69ec692354ffccd|1588979285||t19575.6701577807s|5cf3b35da3e1d7c5|38065|rds|local|vector|||0.009||
+load_raw_data|function|0f5215ddd1598c39|||||||||||||||
+plot|stem|60f62862b2a13954|209d5bcc09dfaf1a|782f5aa804ee7e47|1931196220||t19575.6701580015s|5cf3b35da3e1d7c5|38065|rds|local|vector|||0.004||
+plot_names|function|6c6d1d8a8055e32c|||||||||||||||
+report|stem|d64e0fffcb864fa6|d189b7204cf618e5|1f468a967632f1b1|-237041703|_output*projects/project_1/rapport_A/rapport.qmd*_quarto.yaml|t19575.681002396s|f5c69558095eb6bf|699902|file|local|vector|||1.651||
+tidyfy_raw_data|function|31cbe5f22eba0d78|||||||||||||||
